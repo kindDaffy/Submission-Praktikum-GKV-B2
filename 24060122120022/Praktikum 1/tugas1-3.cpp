@@ -1,5 +1,5 @@
 /*  Nama         : Muhammad Daffa Aradhana Adriansyah
-	NIM			 : 24060122120022
+    NIM		 : 24060122120022
     Nama File    : tugas1-3.cpp
     Deskripsi    : Membuat tampilan kubus 2D bertingkat kreatif
 */
